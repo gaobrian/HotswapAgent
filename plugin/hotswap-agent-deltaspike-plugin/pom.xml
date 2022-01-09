@@ -12,7 +12,7 @@
     <artifactId>hotswap-agent-deltaspike-plugin</artifactId>
 
     <properties>
-        <deltaspike.version>1.9.1</deltaspike.version>
+        <deltaspike.version>1.9.3</deltaspike.version>
         <org.hibernateframework.version>5.2.10.Final</org.hibernateframework.version>
         <jaxb.version>2.3.0</jaxb.version>
     </properties>
